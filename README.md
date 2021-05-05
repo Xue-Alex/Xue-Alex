@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Alex Xue.
 
-I'm a Computer Science student at the University of Waterloo!
+I'm a Computer Science student at the University of Waterloo! Currently working at Riot Games as a SWE Intern.
 
 
 ### 🌱 Previously worked as...
