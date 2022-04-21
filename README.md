@@ -1,9 +1,11 @@
 ## 👋 Hello! I'm Alex Xue.
 
-I'm a Computer Science student at the University of Waterloo! Currently working at Riot Games as a SWE Intern.
+I'm a Computer Science student at the University of Waterloo!
 
 
 ### 🌱 Previously worked as...
+- Software Engineer Intern at [Snap Inc.](https://snap.com/en-GB)
+- Software Engineer Intern at [Riot Games](https://www.riotgames.com/en)
 - Part time Software Engineer Intern for [Common Crawl](https://commoncrawl.org/ "Common Crawl"). Check out a recent [blog post](https://commoncrawl.org/2020/10/interactive-webgraph-statistics-notebook-released/) of mine!
 - Backend Software Engineer Intern at [Georgian Partners](https://georgianpartners.com/ "Georgian Partners")
 - Two time Software Engineer Intern at [Adeptmind](https://adeptmind.ai/ "Adeptmind")
